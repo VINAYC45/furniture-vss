@@ -1,0 +1,11 @@
+header {
+  min-height: 66px;
+  a.active {
+    color: var(--clr-black);
+    font-weight: var(--fw5);
+  }
+  .navBar {
+    background-color: beige;
+    min-height: 66px;
+  }
+}

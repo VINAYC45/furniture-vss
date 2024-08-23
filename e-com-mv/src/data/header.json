@@ -1,0 +1,62 @@
+{
+  "data": {
+    "id": 1,
+    "attributes": {
+      "createdAt": "2024-08-03T08:18:09.394Z",
+      "updatedAt": "2024-08-06T04:53:40.358Z",
+      "publishedAt": "2024-08-03T08:18:12.018Z",
+      "logos": [
+        {
+          "id": 2,
+          "textField": "tiles-logo",
+          "image": {
+            "data": {
+              "id": 2,
+              "attributes": {
+                "name": "Check badge.svg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 20,
+                "height": 20,
+                "formats": null,
+                "hash": "Check_badge_76f9841470",
+                "ext": ".svg",
+                "mime": "image/svg+xml",
+                "size": 0.44,
+                "url": "/uploads/Check_badge_76f9841470.svg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-08-06T04:53:36.813Z",
+                "updatedAt": "2024-08-06T04:53:36.813Z"
+              }
+            }
+          }
+        }
+      ],
+      "menu_items": [
+        {
+          "id": 5,
+          "menu_items": "Home",
+          "menu_link": "/"
+        },
+        {
+          "id": 1,
+          "menu_items": "Products",
+          "menu_link": "/products"
+        },
+        {
+          "id": 2,
+          "menu_items": "Projects",
+          "menu_link": "/projects"
+        }
+      ],
+      "register_now": {
+        "id": 1,
+        "btn_text": "register now",
+        "text_url": "/registerNow"
+      }
+    }
+  },
+  "meta": {}
+}
